@@ -1,4 +1,4 @@
-####注意:主要改写了`BrowserEmulator`类, 去掉过时的`seleniumRc` 及`wait`， 全部改用`selenium webdriver`方法
+####**注意:主要改写了`BrowserEmulator`类, 去掉过时的`seleniumRc` 及`wait`， 全部改用`selenium webdriver`方法**
 
 ﻿## Dagger - a light, robust Web UI autotest framework
 
